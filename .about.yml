@@ -36,6 +36,10 @@ services:
   category: CI
   url: https://travis-ci.org/18F/calc
   badge: https://travis-ci.org/18F/calc.svg
+- name: Code Climate
+  category: code quality
+  url: https://codeclimate.com/github/18F/calc
+  badge: https://codeclimate.com/github/18F/calc/badges/gpa.svg
 
 licenses:
   mirage:
